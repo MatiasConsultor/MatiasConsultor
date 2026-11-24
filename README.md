@@ -38,6 +38,7 @@ Consulta las reseñas verificadas en **[ProvenExpert – Impulso Pymes IA](https
 
 - 🤖 **[Prompts de IA para pymes y autónomos](https://github.com/MatiasConsultor/prompts-ia-pymes)**: 24 prompts listos para usar en marketing, ventas, administración, productividad y RR. HH.
 - 📈 **[Prompts de IA para escalar las ventas](https://github.com/MatiasConsultor/prompts-ventas-ia)**: 30 prompts para todo el embudo comercial, desde la prospección hasta la fidelización.
+- 🧰 **[Awesome IA para Pymes](https://github.com/MatiasConsultor/awesome-ia-pymes)**: lista curada de herramientas de IA para pymes y autónomos, por categorías y con notas de privacidad.
 
 Funcionan con ChatGPT, Claude, Gemini y Microsoft Copilot. Si te resultan útiles, deja una ⭐.
 
