@@ -34,6 +34,13 @@ Microsoft Copilot · Google AI Essentials · MIT Digital Transformation
 
 Consulta las reseñas verificadas en **[ProvenExpert – Impulso Pymes IA](https://www.provenexpert.com/impulso-pymes-ia/)**.
 
+## 📚 Recursos gratuitos
+
+- 🤖 **[Prompts de IA para pymes y autónomos](https://github.com/MatiasConsultor/prompts-ia-pymes)**: 24 prompts listos para usar en marketing, ventas, administración, productividad y RR. HH.
+- 📈 **[Prompts de IA para escalar las ventas](https://github.com/MatiasConsultor/prompts-ventas-ia)**: 30 prompts para todo el embudo comercial, desde la prospección hasta la fidelización.
+
+Funcionan con ChatGPT, Claude, Gemini y Microsoft Copilot. Si te resultan útiles, deja una ⭐.
+
 ## 📬 Contacto
 
 - 🌐 Web: [impulsopymesia.com](https://impulsopymesia.com)
