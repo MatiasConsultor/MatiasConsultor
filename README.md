@@ -1,0 +1,44 @@
+# Hola, soy Matias Montico 👋
+
+**Consultor en transformación digital y formador en IA generativa para pymes y autónomos.**
+Fundador de [Impulso Pymes IA](https://impulsopymesia.com) · Málaga, España 🇪🇸 · Raíces en Buenos Aires 🇦🇷
+
+Ayudo a pequeñas empresas y profesionales **sin perfil técnico** a usar la inteligencia artificial para ahorrar tiempo, automatizar tareas repetitivas y vender mejor, con soluciones económicas y escalables.
+
+---
+
+## 🚀 Qué hago
+
+- **Consultoría en IA y transformación digital** con la metodología **IMPULSA**: diagnóstico, plan de acción y acompañamiento.
+- **Automatización de procesos** para pymes con herramientas asequibles.
+- **Formación práctica en IA generativa** para equipos y empresas: ChatGPT, Claude, Gemini y Microsoft Copilot.
+- **Mentoría** para emprendedores y autónomos que quieren digitalizar su negocio.
+
+👉 Más información en **[impulsopymesia.com](https://impulsopymesia.com)**
+
+## 🧠 Experiencia
+
+- Más de **20 años en el sector IT**: Telecom Argentina (Scrum Master / Agile Coach y QA Lead), IBM y Toyota España.
+- **Docente en la EOI** (Escuela de Organización Industrial).
+- **Formador acreditado** (SSCE0110).
+
+## 🎓 Certificaciones
+
+Microsoft Copilot · Google AI Essentials · MIT Digital Transformation
+
+## 🛠️ Herramientas con las que trabajo
+
+`Claude` · `ChatGPT` · `Gemini` · `Microsoft Copilot` · `Automatización no-code` · `Agile / Scrum`
+
+## ⭐ Opiniones de clientes
+
+Consulta las reseñas verificadas en **[ProvenExpert – Impulso Pymes IA](https://www.provenexpert.com/impulso-pymes-ia/)**.
+
+## 📬 Contacto
+
+- 🌐 Web: [impulsopymesia.com](https://impulsopymesia.com)
+- ⭐ Reseñas: [ProvenExpert](https://www.provenexpert.com/impulso-pymes-ia/)
+
+---
+
+<sub>Impulso Pymes IA · Consultoría y formación en inteligencia artificial para pymes y autónomos en Málaga, Andalucía y toda España.</sub>
