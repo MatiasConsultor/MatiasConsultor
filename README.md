@@ -36,6 +36,7 @@ Consulta las reseñas verificadas en **[ProvenExpert – Impulso Pymes IA](https
 
 ## 📚 Recursos gratuitos
 
+- **[Recursos prácticos de IA para pymes](https://github.com/MatiasConsultor/recursos-ia-pymes)**: checklist de madurez digital, matriz de priorización, calculadora de ROI y plantilla n8n para revisar consultas.
 - 🤖 **[Prompts de IA para pymes y autónomos](https://github.com/MatiasConsultor/prompts-ia-pymes)**: 24 prompts listos para usar en marketing, ventas, administración, productividad y RR. HH.
 - 📈 **[Prompts de IA para escalar las ventas](https://github.com/MatiasConsultor/prompts-ventas-ia)**: 30 prompts para todo el embudo comercial, desde la prospección hasta la fidelización.
 - 🧰 **[Awesome IA para Pymes](https://github.com/MatiasConsultor/awesome-ia-pymes)**: lista curada de herramientas de IA para pymes y autónomos, por categorías y con notas de privacidad.
